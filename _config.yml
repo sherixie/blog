@@ -1,12 +1,10 @@
 # Site settings
 course_name: Courses of Faith
 course_description: "A sampling of courses taught at Concordia Seminary for interested future seminarians, pastors and laity."
-
-
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://sherixie.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Faith"
+schoolname: "Christian"
 schoolurl: "https://faith.edu"
 twitter_username: username 
 
