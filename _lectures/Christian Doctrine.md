@@ -5,7 +5,7 @@ title: <Christian Doctrine>
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/path/to/image.jpg
+thumbnail: /static_files/path/to/image.jpg 
 
 # optional
 tldr: "This course is designed to assist the student in gaining the basic understanding of Christian doctrine. This is not adequate preparation for students preparing for the Entry-Level Competency Exams. Essential preparation materials for the exams may be found at Entry Level Competency Exams."
