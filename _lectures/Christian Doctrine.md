@@ -8,7 +8,7 @@ title: <Christian Doctrine>
 thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "What is AI? How does it impact our lives? The current state of the art."
+tldr: "This course is designed to assist the student in gaining the basic understanding of Christian doctrine. This is not adequate preparation for students preparing for the Entry-Level Competency Exams. Essential preparation materials for the exams may be found at Entry Level Competency Exams."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
