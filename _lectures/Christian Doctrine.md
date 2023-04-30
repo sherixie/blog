@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links: 
-    - url: *[Christian Doctrine]/lectures/christian_doctrine/ 
+    - url: /lectures/christian_doctrine/ 
       name: notes
     - url: /static_files/presentations/code.zip
       name: codes
