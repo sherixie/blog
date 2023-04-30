@@ -1,5 +1,5 @@
 ---
-layout: christian doctrine
+layout: default
 title: Christian Doctrine
 permalink: /lectures/christian_doctrine/
 ---
